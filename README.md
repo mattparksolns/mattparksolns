@@ -29,7 +29,7 @@ Thank you for visiting<br />
 my profile.
 
 <a href="#drop-me-a-lineid-like-to-hear-from-you------------">
-    <img alt="signature" src="static/assets/images/signature.svg" width="150" />
+    <img alt="signature" src="https://images.app.goo.gl/5GLuZz6WBd4naAgH7" width="150" />
 </a>
 
 <!--
