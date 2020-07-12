@@ -1,3 +1,8 @@
+<p align="center">
+    <a title="Matt Park - Software Engineer" target="_blank" rel="noopener noreferrer" href="https://mattpark.tk">
+        <img alt="Matt Park" src="https://res.cloudinary.com/mattparksolns/image/upload/v1594559979/mattpark.tk/mattpark-favicon.png" width="60" />
+    </a>
+</p>
 <h1 align="center">
     Matt Park - Software Engineer
 </h1>
@@ -18,19 +23,20 @@ Web Tinkerer<br />
 </h3>
 <br /><br />
 <a title="LinkedIn" href="https://www.linkedin.com/in/mattparksolns/">
-    <img alt="linkedin" src="./static/assets/icons/linkedin.svg" width="16" /></a> &nbsp;
+    <img alt="linkedin" src="https://res.cloudinary.com/mattparksolns/image/upload/v1594560023/mattpark.tk/linkedin.svg" width="16" /></a> &nbsp;
 <a title="Twitter" href="https://twitter.com/mattparksolns">
-    <img alt="twitter" src="./static/assets/icons/twitter.svg" width="16" /></a> &nbsp;
+    <img alt="twitter" src="https://res.cloudinary.com/mattparksolns/image/upload/v1594560029/mattpark.tk/twitter.svg" width="16" /></a> &nbsp;
 <a title="Instagram" href="https://www.instagram.com/mattparksolns/">
-    <img alt="instagram" src="./static/assets/icons/instagram.svg" width="16" /></a> &nbsp;
+    <img alt="instagram" src="https://res.cloudinary.com/mattparksolns/image/upload/v1594560007/mattpark.tk/instagram.svg" width="16" /></a> &nbsp;
 <br /><br /><br />
 
 Thank you for visiting<br />
-my profile.
+my portfolio.
 
 <a href="#drop-me-a-lineid-like-to-hear-from-you------------">
-    <img alt="signature" src="https://i.picsum.photos/id/787/200/300.jpg?hmac=XItcL1ki66gQzP2FwRZjLbruiohUmaOYs9mmlDZe9KE" width="150" />
+    <img alt="signature" src="https://res.cloudinary.com/mattparksolns/image/upload/v1594559943/mattpark.tk/signature.svg" width="150" />
 </a>
+
 
 <!--
 **mattparksolns/mattparksolns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
