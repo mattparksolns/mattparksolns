@@ -7,7 +7,7 @@
     Matt Park - Software Engineer
 </h1>
 
-## My name is <a style="color:#ff3388" title="LinkedIn" href="https://www.linkedin.com/in/mattparksolns/">Matt<br />Park.</a>I'm a New York<br />City based software<br />engineer.
+## My name is <a style="color:#ff3388" title="LinkedIn" href="https://www.linkedin.com/in/mattparksolns/">Matt<br />Park.</a> I'm a New York<br />City based software<br />engineer.
 
 Forward Thinker<br />
 Problem Solver<br />
@@ -31,7 +31,7 @@ Web Tinkerer<br />
 <br /><br /><br />
 
 Thank you for visiting<br />
-my portfolio.
+my profile.
 
 <a href="#drop-me-a-lineid-like-to-hear-from-you------------">
     <img alt="signature" src="static/assets/images/signature.svg" width="150" />
