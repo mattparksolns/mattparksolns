@@ -31,7 +31,7 @@ Web Tinkerer<br />
 <br /><br /><br />
 
 Thank you for visiting<br />
-my portfolio.
+my profile.
 
 <a href="#drop-me-a-lineid-like-to-hear-from-you------------">
     <img alt="signature" src="https://res.cloudinary.com/mattparksolns/image/upload/v1594559943/mattpark.tk/signature.svg" width="150" />
